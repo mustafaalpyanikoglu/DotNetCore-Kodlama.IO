@@ -1,0 +1,15 @@
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.exe
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.deps.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.runtimeconfig.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.runtimeconfig.dev.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\bin\Debug\net5.0\ref\ValueAndReferenceTypes.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.AssemblyInfo.cs
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ref\ValueAndReferenceTypes.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.genruntimeconfig.cache
