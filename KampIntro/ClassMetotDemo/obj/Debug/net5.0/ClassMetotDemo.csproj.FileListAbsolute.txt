@@ -1,0 +1,16 @@
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.exe
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.deps.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.runtimeconfig.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ref\ClassMetotDemo.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ref\ClassMetotDemo.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.genruntimeconfig.cache
