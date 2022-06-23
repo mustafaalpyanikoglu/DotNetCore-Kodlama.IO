@@ -1,0 +1,15 @@
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\bin\Debug\net5.0\RefAndOut.exe
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\bin\Debug\net5.0\RefAndOut.deps.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\bin\Debug\net5.0\RefAndOut.runtimeconfig.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\bin\Debug\net5.0\RefAndOut.runtimeconfig.dev.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\bin\Debug\net5.0\RefAndOut.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\bin\Debug\net5.0\ref\RefAndOut.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\bin\Debug\net5.0\RefAndOut.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\obj\Debug\net5.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\obj\Debug\net5.0\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\obj\Debug\net5.0\RefAndOut.AssemblyInfo.cs
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\obj\Debug\net5.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\obj\Debug\net5.0\RefAndOut.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\obj\Debug\net5.0\ref\RefAndOut.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\obj\Debug\net5.0\RefAndOut.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\RefAndOut\obj\Debug\net5.0\RefAndOut.genruntimeconfig.cache

@@ -13,3 +13,4 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ref\ValueAndReferenceTypes.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.pdb
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.genruntimeconfig.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.csproj.AssemblyReference.cache
