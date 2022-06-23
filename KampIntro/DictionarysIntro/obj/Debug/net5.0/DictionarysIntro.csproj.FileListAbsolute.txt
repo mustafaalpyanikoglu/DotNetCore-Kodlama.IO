@@ -1,0 +1,15 @@
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\bin\Debug\net5.0\DictionarysIntro.exe
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\bin\Debug\net5.0\DictionarysIntro.deps.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\bin\Debug\net5.0\DictionarysIntro.runtimeconfig.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\bin\Debug\net5.0\DictionarysIntro.runtimeconfig.dev.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\bin\Debug\net5.0\DictionarysIntro.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\bin\Debug\net5.0\ref\DictionarysIntro.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\bin\Debug\net5.0\DictionarysIntro.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\obj\Debug\net5.0\DictionarysIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\obj\Debug\net5.0\DictionarysIntro.AssemblyInfoInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\obj\Debug\net5.0\DictionarysIntro.AssemblyInfo.cs
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\obj\Debug\net5.0\DictionarysIntro.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\obj\Debug\net5.0\DictionarysIntro.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\obj\Debug\net5.0\ref\DictionarysIntro.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\obj\Debug\net5.0\DictionarysIntro.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\DictionarysIntro\obj\Debug\net5.0\DictionarysIntro.genruntimeconfig.cache
