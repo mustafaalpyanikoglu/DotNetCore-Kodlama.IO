@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionarysIntro", "Diction
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{C6A098FB-1FA7-4A3F-92D4-B7A7423F77C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{39424910-5EEE-485F-9772-08D24BA2CC3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{39424910-5EEE-485F-9772-08D24BA2CC3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{AE9E3EDD-7282-4696-8B2D-A228A7A97ABB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{39424910-5EEE-485F-9772-08D24BA2CC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39424910-5EEE-485F-9772-08D24BA2CC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39424910-5EEE-485F-9772-08D24BA2CC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9E3EDD-7282-4696-8B2D-A228A7A97ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9E3EDD-7282-4696-8B2D-A228A7A97ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9E3EDD-7282-4696-8B2D-A228A7A97ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9E3EDD-7282-4696-8B2D-A228A7A97ABB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
