@@ -10,16 +10,29 @@ namespace OOP3
             ICreditManager cunsomerLoanManager = new CunsomerLoanManager();
             ICreditManager vehicleLoanManager = new VehicleLoanManager();
             ICreditManager homeLoanManager = new HomeLoanManager();
-             
-            ApplicationManager applicationManager = new ApplicationManager();
-            //applicationManager.MakeApplication(cunsomerLoanManager);
-            //applicationManager.MakeApplication(vehicleLoanManager);
-            //applicationManager.MakeApplication(homeLoanManager);
 
+            ILoggerService databaseLoggerService = new DatabaseLoggerService();
+            ILoggerService fileLoggerService = new FileLoggerService();
+
+            List<ILoggerService> loggerServices = new List<ILoggerService>();
+            loggerServices.Add(fileLoggerService);
+            loggerServices.Add(databaseLoggerService);
+
+            ApplicationManager applicationManager = new ApplicationManager();
+            applicationManager.MakeApplication(cunsomerLoanManager,loggerServices);
+            
+            Console.WriteLine("----------------------------------------");
+            applicationManager.MakeApplication(new BusinessLoanManager(),loggerServices);
+            
+            Console.WriteLine("----------------------------------------");
+            applicationManager.MakeApplication(vehicleLoanManager,new List<ILoggerService>() {new SmsLoggerService(),databaseLoggerService });
+
+
+            
             List<ICreditManager> creditManagers = new List<ICreditManager>() { };
             creditManagers.Add(cunsomerLoanManager);
             creditManagers.Add(homeLoanManager);
-            applicationManager.MakeLoanPreInformation(creditManagers);
+            //applicationManager.MakeLoanPreInformation(creditManagers);
 
 
         }

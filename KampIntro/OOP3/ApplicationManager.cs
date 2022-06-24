@@ -8,11 +8,16 @@ namespace OOP3
 {
     class ApplicationManager
     {
-        public void MakeApplication(ICreditManager creditManager)
+        //Method injection
+        public void MakeApplication(ICreditManager creditManager,List<ILoggerService> loggerServices)
         {
             //Başvuran bilgilerini değerlendirme
             //
             creditManager.Calculate();
+            foreach (ILoggerService loggerService in loggerServices)
+            {
+                loggerService.Log();
+            }
         }
 
         public void MakeLoanPreInformation(List<ICreditManager> creditManagers)
