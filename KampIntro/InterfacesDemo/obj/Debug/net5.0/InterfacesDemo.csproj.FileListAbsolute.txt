@@ -1,0 +1,15 @@
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.exe
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.deps.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.runtimeconfig.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.runtimeconfig.dev.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\bin\Debug\net5.0\ref\InterfacesDemo.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.AssemblyInfo.cs
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\obj\Debug\net5.0\ref\InterfacesDemo.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.genruntimeconfig.cache
