@@ -45,9 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameApplication", "GameApplication\GameApplication.csproj", "{47A1BDCB-47DE-4DAE-B033-D7C9D9A4A763}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FirstFiveDays", "FirstFiveDays", "{3F43979A-C6C6-4698-A2F2-FE247D628429}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FirstSixDays", "FirstSixDays", "{3F43979A-C6C6-4698-A2F2-FE247D628429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{136CBD4E-9540-4516-A5D8-9ABEBFED8699}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "GameProject\GameProject.csproj", "{136CBD4E-9540-4516-A5D8-9ABEBFED8699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{D804F87E-DAE7-4E26-A083-B30C3FCD2143}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +145,10 @@ Global
 		{136CBD4E-9540-4516-A5D8-9ABEBFED8699}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{136CBD4E-9540-4516-A5D8-9ABEBFED8699}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{136CBD4E-9540-4516-A5D8-9ABEBFED8699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D804F87E-DAE7-4E26-A083-B30C3FCD2143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D804F87E-DAE7-4E26-A083-B30C3FCD2143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D804F87E-DAE7-4E26-A083-B30C3FCD2143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D804F87E-DAE7-4E26-A083-B30C3FCD2143}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

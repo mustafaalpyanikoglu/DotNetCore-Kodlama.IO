@@ -1,0 +1,15 @@
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\bin\Debug\net5.0\LinqProject.exe
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\bin\Debug\net5.0\LinqProject.deps.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\bin\Debug\net5.0\LinqProject.runtimeconfig.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\bin\Debug\net5.0\LinqProject.runtimeconfig.dev.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\bin\Debug\net5.0\LinqProject.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\bin\Debug\net5.0\ref\LinqProject.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\bin\Debug\net5.0\LinqProject.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\obj\Debug\net5.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\obj\Debug\net5.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\obj\Debug\net5.0\LinqProject.AssemblyInfo.cs
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\obj\Debug\net5.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\obj\Debug\net5.0\LinqProject.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\obj\Debug\net5.0\ref\LinqProject.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\obj\Debug\net5.0\LinqProject.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\LinqProject\obj\Debug\net5.0\LinqProject.genruntimeconfig.cache
