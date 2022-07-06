@@ -21,15 +21,24 @@ namespace LinqProject
                 new Product{ProductId=4,CategoryId=2,ProductName="Samsung Telefon",QuentityPerUnit="4 GB Ram",UnitPrice=5000,UnitInStock=15},
                 new Product{ProductId=5,CategoryId=2,ProductName="Apple Telefon",QuentityPerUnit="4 GB Ram",UnitPrice=8000,UnitInStock=0},
             };
-            
+
             Console.WriteLine("Linq----------------");
 
-            foreach (var product in result)
-            {
-                Console.WriteLine(product.ProductName);
-            }
+            //foreach (var product in products)
+            //{
+            //    Console.WriteLine(product.ProductName);
+            //}
 
-            GetProducts(products);
+            //GetProducts(products);
+
+            AnyTest(products);
+
+        }
+
+        private static void AnyTest(List<Product> products)
+        {
+            var result = products.Any(p => p.ProductName == "Acer Laptop");
+            Console.WriteLine(result);
         }
 
         static List<Product> GetProducts(List<Product> products)

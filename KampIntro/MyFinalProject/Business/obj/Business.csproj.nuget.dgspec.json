@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Business\\Business.csproj": {}
+    "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Business\\Business.csproj": {
+    "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Alp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Alp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -112,6 +112,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -131,14 +137,14 @@
         }
       }
     },
-    "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Alp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alp\\Desktop\\MyFinalProject\\MyFinalProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
