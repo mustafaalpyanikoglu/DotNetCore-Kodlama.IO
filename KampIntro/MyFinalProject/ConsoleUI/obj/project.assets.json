@@ -1482,10 +1482,24 @@
           "bin/placeholder/Business.dll": {}
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Core": "1.0.0",
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
         },
@@ -1499,6 +1513,9 @@
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },
@@ -5687,6 +5704,11 @@
       "path": "../Business/Business.csproj",
       "msbuildProject": "../Business/Business.csproj"
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "DataAccess/1.0.0": {
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
@@ -5701,6 +5723,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Business >= 1.0.0",
+      "Core >= 1.0.0",
       "DataAccess >= 1.0.0",
       "Entities >= 1.0.0"
     ]
@@ -5739,6 +5762,9 @@
           "projectReferences": {
             "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Business\\Business.csproj": {
               "projectPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Business\\Business.csproj"
+            },
+            "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\Core\\Core.csproj"
             },
             "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
               "projectPath": "C:\\Users\\Alp\\Desktop\\Kodlama.IO\\KampIntro\\MyFinalProject\\DataAccess\\DataAccess.csproj"

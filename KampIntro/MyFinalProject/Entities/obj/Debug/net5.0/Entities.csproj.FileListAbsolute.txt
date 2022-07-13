@@ -22,3 +22,6 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Entities\obj\Debug\net5
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Entities\obj\Debug\net5.0\Entities.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Entities\obj\Debug\net5.0\ref\Entities.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete

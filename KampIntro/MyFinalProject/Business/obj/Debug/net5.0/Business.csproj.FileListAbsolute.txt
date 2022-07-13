@@ -32,3 +32,5 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Business\obj\Debug\net5
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Business\obj\Debug\net5.0\Business.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Business\obj\Debug\net5.0\ref\Business.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Business\bin\Debug\net5.0\Core.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Business\bin\Debug\net5.0\Core.pdb
