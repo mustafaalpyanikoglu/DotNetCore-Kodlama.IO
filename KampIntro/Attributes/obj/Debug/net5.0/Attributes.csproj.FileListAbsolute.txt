@@ -1,0 +1,15 @@
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\bin\Debug\net5.0\Attributes.exe
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\bin\Debug\net5.0\Attributes.deps.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.dev.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\bin\Debug\net5.0\Attributes.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\bin\Debug\net5.0\ref\Attributes.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\bin\Debug\net5.0\Attributes.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\obj\Debug\net5.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfoInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfo.cs
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\obj\Debug\net5.0\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\obj\Debug\net5.0\Attributes.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\obj\Debug\net5.0\ref\Attributes.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\obj\Debug\net5.0\Attributes.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Attributes\obj\Debug\net5.0\Attributes.genruntimeconfig.cache
