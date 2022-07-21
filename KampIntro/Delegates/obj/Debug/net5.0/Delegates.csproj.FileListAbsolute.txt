@@ -1,0 +1,15 @@
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\bin\Debug\net5.0\Delegates.exe
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\bin\Debug\net5.0\Delegates.deps.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\bin\Debug\net5.0\Delegates.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\bin\Debug\net5.0\ref\Delegates.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\bin\Debug\net5.0\Delegates.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\obj\Debug\net5.0\Delegates.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\obj\Debug\net5.0\ref\Delegates.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\obj\Debug\net5.0\Delegates.pdb
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache
