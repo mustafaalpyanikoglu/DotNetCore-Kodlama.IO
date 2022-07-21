@@ -61,3 +61,9 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\FluentValidation.dll
