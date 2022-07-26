@@ -50,7 +50,6 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
@@ -67,3 +66,8 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
