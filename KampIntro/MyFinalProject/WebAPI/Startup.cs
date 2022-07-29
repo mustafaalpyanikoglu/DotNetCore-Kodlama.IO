@@ -39,9 +39,6 @@ namespace WebAPI
             //AOP
             services.AddControllers();
 
-            //services.AddSingleton<IProductService, ProductManager>();
-            //services.AddSingleton<IProductDal, EfProductDal>();
-
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();

@@ -92,3 +92,7 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\ConsoleUI\bin\Debug\net
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\ConsoleUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Net.Http.Headers.dll
