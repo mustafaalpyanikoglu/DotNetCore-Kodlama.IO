@@ -1,4 +1,5 @@
 ﻿using Castle.DynamicProxy;
+using Core.Aspects.Autofac.Performance;
 using System;
 using System.Linq;
 using System.Reflection;
