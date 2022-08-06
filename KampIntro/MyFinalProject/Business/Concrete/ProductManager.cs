@@ -51,7 +51,7 @@ namespace Business.Concrete
             return new SuccessResult(Messages.ProductAdded);
         }
 
-        [SecuredOperation("product.add,admin")]
+        //[SecuredOperation("product.add,admin")]
         [CacheAspect] //key,value
         [PerformanceAspect(5)]
         public IDataResult<List<Product>> GetAll()
