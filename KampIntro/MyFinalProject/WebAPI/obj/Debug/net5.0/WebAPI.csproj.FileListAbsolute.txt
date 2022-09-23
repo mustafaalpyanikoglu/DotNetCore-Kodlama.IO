@@ -5,7 +5,6 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\WebAPI.dll
-C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\WebAPI.pdb
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
@@ -52,7 +51,6 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
-C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
@@ -71,3 +69,4 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\WebAPI\obj\Debug\net5.0\refint\WebAPI.dll

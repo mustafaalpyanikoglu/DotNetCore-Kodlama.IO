@@ -1,6 +1,5 @@
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\bin\Debug\net5.0\Core.deps.json
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\bin\Debug\net5.0\Core.dll
-C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\bin\Debug\net5.0\ref\Core.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\bin\Debug\net5.0\Core.pdb
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
@@ -10,3 +9,4 @@ C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\obj\Debug\net5.0\C
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\obj\Debug\net5.0\ref\Core.dll
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\obj\Debug\net5.0\Core.pdb
 C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\Alp\Desktop\Kodlama.IO\KampIntro\MyFinalProject\Core\obj\Debug\net5.0\refint\Core.dll
